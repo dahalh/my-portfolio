@@ -4,6 +4,7 @@ import Contact from "../assets/contact.png";
 import Expenses from "../assets/expensestracker.jpg";
 import Movie from "../assets/movie-search.jpg";
 import NotToDo from "../assets/not-to-do.png";
+import Blog from "../assets/blog.jpg";
 
 const Projects = () => {
   return (
@@ -162,6 +163,36 @@ const Projects = () => {
                 </a>
                 <a
                   href="https://github.com/dahalh/prank-calculator"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${Blog})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Blog
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://hblog.onrender.com/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a
+                  href="https://github.com/dahalh/blog-frontend"
                   target="_blank"
                   rel="noreferrer"
                 >
