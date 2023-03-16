@@ -18,15 +18,14 @@ const About = () => {
           </div>
           <div>
             <p>
-              I completed my degree in Bachelor of Information and
+              I am a React Developer seeking an opportunity to utilize and
+              continue to improve my skills and contribute to the growth and
+              success of a company by delivering valuable and efficient
+              solutions. I am eager to learn and adapt to new technologies and
+              methodologies to deliver outstanding results for the company and
+              its clients. I completed my degree in Bachelor of Information and
               Communications with a major in Entertainment Computing from
-              Western Sydney University in July 2021 and graduated September
-              this year, with the delay due to Covid. Upon finishing my studies
-              in 2021, I attended a Full Stack Development Bootcamp at Dented
-              Code Academy in Rockdale. Attending this bootcamp allowed me to
-              learn in-depth about JavaScript and its Frontend library ReactJS,
-              its backend runtime environment NodeJS, its backend web
-              application framework Express.js, as well as MongoDB.
+              Western Sydney University in 2022.
             </p>
           </div>
         </div>
