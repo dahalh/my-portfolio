@@ -18,14 +18,14 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am a React Developer seeking an opportunity to utilize and
+              I am a Full Stack Developer seeking an opportunity to utilize and
               continue to improve my skills and contribute to the growth and
               success of a company by delivering valuable and efficient
               solutions. I am eager to learn and adapt to new technologies and
               methodologies to deliver outstanding results for the company and
               its clients. I completed my degree in Bachelor of Information and
               Communications with a major in Entertainment Computing from
-              Western Sydney University in 2022.
+              Western Sydney University in 2021.
             </p>
           </div>
         </div>
